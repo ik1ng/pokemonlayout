@@ -1120,7 +1120,7 @@ section.lazy-placeholder:after {
 .cid-s3shqlC7EA {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/pball-bg-4-2000x2000.jpg");
 }
 .cid-s3shqlC7EA h2 {
   text-align: left;
@@ -1182,7 +1182,7 @@ section.lazy-placeholder:after {
 .cid-s3sjXnpnNd {
   padding-top: 15px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/pball-bg-4-2000x2000.jpg");
 }
 .cid-s3sjXnpnNd h4 {
   text-align: left;
@@ -1285,7 +1285,10 @@ section.lazy-placeholder:after {
 .cid-s3sISiVaNY {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/pball-bg-4-2000x2000.jpg");
+}
+.cid-s3sISiVaNY .card-box {
+  padding: 1rem 2rem 2rem;
 }
 .cid-s3sISiVaNY h4 {
   font-weight: 500;
@@ -1324,7 +1327,10 @@ section.lazy-placeholder:after {
 .cid-s3sLSdTtnq {
   padding-top: 0px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/pball-bg-4-2000x2000.jpg");
+}
+.cid-s3sLSdTtnq .card-box {
+  padding: 1rem 2rem 2rem;
 }
 .cid-s3sLSdTtnq h4 {
   font-weight: 500;
@@ -1381,7 +1387,10 @@ section.lazy-placeholder:after {
 .cid-s3tCDjkrGt {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/pball-bg-4-2000x2000.jpg");
+}
+.cid-s3tCDjkrGt .card-box {
+  padding: 1rem 2rem 2rem;
 }
 .cid-s3tCDjkrGt h4 {
   font-weight: 500;
@@ -1420,7 +1429,10 @@ section.lazy-placeholder:after {
 .cid-s3tCFFMl1U {
   padding-top: 0px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/pball-bg-4-2000x2000.jpg");
+}
+.cid-s3tCFFMl1U .card-box {
+  padding: 1rem 2rem 2rem;
 }
 .cid-s3tCFFMl1U h4 {
   font-weight: 500;
